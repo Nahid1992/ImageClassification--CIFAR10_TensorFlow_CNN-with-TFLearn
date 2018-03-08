@@ -6,11 +6,11 @@ A system was built to solve the CIFAR10 classification problem using TFLearn on 
 The CIFAR10 database was downloaded from the built-in function.
 
 ### Database Properties
-Image count for each class = 60,000
-Number of Classes = 10
-Image Size = 32x32
-Training Split = 50,000
-Testing Split = 10,000
+	Image count for each class = 60,000
+	Number of Classes = 10
+	Image Size = 32x32
+	Training Split = 50,000
+	Testing Split = 10,000
 
 ### Dependencies
 * Python 3.6.2
